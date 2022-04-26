@@ -1,5 +1,4 @@
 # portfolio.github.io
-# portfolio
 Prashanth Website
 
 Initio - Free, multipurpose html5 template
